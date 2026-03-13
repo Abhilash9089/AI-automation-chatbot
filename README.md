@@ -88,8 +88,4 @@ Please note, there is a known glitch in the system: If you try to interrupt the 
 Contributions are welcome. If you have ideas for improvement or want to contribute, please fork the repository, make your changes, and create a pull request.
 License
 
-This project is licensed under the MIT License.
 
-If you have any questions, comments, or concerns, please open an issue in this repository.
-
-Thank you for exploring the Self-Talking Chatbot Platform!
